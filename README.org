@@ -1,0 +1,3 @@
+* MCM Builder Extensions
+
+GitHub staging for extensions to Igigog's MCM builder.
